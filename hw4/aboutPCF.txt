@@ -1,0 +1,3 @@
+I implemented PCF by sampling nine surrounding texels of the depth map and averaging them. If you press key '4', you can turn on PCF.
+
+I didn't implement CSM.
