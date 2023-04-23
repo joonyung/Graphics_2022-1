@@ -3,7 +3,7 @@
 C++/OpenGL
  - Shaders / Textrues / Transformations / Transformations / Coordinate Systems / Camera / Lighting / Materials / Lighting maps / Multiple Lights / Model / Mesh / Shadows
  
- Screenshots of hw5\n
+ Screenshots of hw5
  
  ![a](https://user-images.githubusercontent.com/65150672/233842793-d433d19e-c5a9-461c-bc36-bfb49b2ff926.png)
 ![b](https://user-images.githubusercontent.com/65150672/233842794-835c0950-9e7a-41a1-9977-7a90ccb460b6.png)
